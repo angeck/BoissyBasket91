@@ -1,0 +1,782 @@
+{
+  "version": 1,
+  "updated": "2026-10-17",
+  "exercises": [
+    {
+      "id": "jeu-123-basket",
+      "name": "1, 2, 3 Basket",
+      "themes": [
+        "Échauffement",
+        "Dribble"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Tout le groupe",
+      "materiel": [],
+      "variantes": true,
+      "rev": 1,
+      "description": "Jeu identique au 1, 2, 3 soleil. Un enfant joue « soleil » et se place face aux autres, qui sont alignés sur la ligne de départ. Quand il tourne le dos en disant « 1, 2, 3 », les enfants avancent. Quand il se retourne en disant « soleil », tout le monde s'arrête : celui qui bouge retourne au départ.\n\nOn joue plusieurs passages :\n• 1er passage : sans ballon (pour comprendre le jeu)\n• ballon tenu à 2 mains\n• ballon tenu à 1 main\n• en dribblant\n\nMatériel : 1 ballon par enfant (à partir du 2e passage).",
+      "video": "videos/jeu-123-basket.mp4",
+      "poster": "posters/jeu-123-basket.jpg",
+      "source": null
+    },
+    {
+      "id": "chasse-ballon",
+      "name": "Chasse ballon",
+      "themes": [
+        "Échauffement",
+        "Dribble"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Tout le groupe",
+      "materiel": [],
+      "variantes": true,
+      "rev": 1,
+      "description": "Les joueurs ne doivent pas se faire toucher par le coach, qui les chasse dans le terrain. On joue plusieurs manches :\n• sans ballon\n• avec le ballon tenu à 2 mains\n• en dribblant (le chat doit faire sortir le ballon du terrain)\n\nUn point de pénalité à chaque fois qu'on est touché. Le but est d'avoir le moins de points possible à la fin de la partie.\n\nMatériel : 1 ballon par enfant (à partir de la 2e manche).",
+      "video": "videos/chasse-ballon.mp4",
+      "poster": "posters/chasse-ballon.jpg",
+      "source": null
+    },
+    {
+      "id": "epervier-mtwwhvv",
+      "name": "EPERVIER",
+      "themes": [
+        "Échauffement"
+      ],
+      "categories": [
+        "U7",
+        "U9"
+      ],
+      "duration": 10,
+      "format": "Tout le groupe",
+      "materiel": [],
+      "variantes": true,
+      "rev": 2,
+      "description": "Choisir un des enfants les plus introvertis : c'est l'épervier. Il se place au milieu du terrain, tous les autres sont dans la zone de départ.\n\n1er passage, sans ballon (pour comprendre le jeu) : au signal, tout le monde traverse jusqu'à la zone d'arrivée sans se faire toucher par l'épervier. Un enfant touché devient épervier à son tour. On recommence dans l'autre sens.\n\n2e passage : même jeu, en dribblant.\n\nÉvolution possible : tout le monde dribble, y compris les éperviers, qui doivent toucher un joueur en gardant leur propre dribble.",
+      "video": "videos/epervier-mtwwhvv.mp4",
+      "poster": "posters/epervier-mtwwhvv.jpg",
+      "source": null
+    },
+    {
+      "id": "pac-man-demi-terrain-sncooyq",
+      "name": "PAC MAN demi terrain",
+      "themes": [
+        "Échauffement"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": null,
+      "materiel": null,
+      "variantes": false,
+      "rev": 1,
+      "description": "",
+      "video": null,
+      "poster": null,
+      "source": null
+    },
+    {
+      "id": "pac-man-grand-terrain-cstnbuj",
+      "name": "PAC MAN grand terrain",
+      "themes": [
+        "Échauffement"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": null,
+      "materiel": null,
+      "variantes": false,
+      "rev": 1,
+      "description": "",
+      "video": null,
+      "poster": null,
+      "source": null
+    },
+    {
+      "id": "contact-dribble-arriere",
+      "name": "Contact + dribble arrière",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": "Par 2",
+      "materiel": [],
+      "variantes": false,
+      "rev": 1,
+      "description": "Par 2 en face à face (env. 4 m), 1 ballon chacun.\n• 10 dribbles rapides sur place.\n• On avance en dribblant et on vient taper la main du copain.\n• 3 dribbles en marche arrière : dribble de protection, corps et bras en opposition, ballon protégé derrière.\nEt ainsi de suite.",
+      "video": "videos/contact-dribble-arriere.mp4",
+      "poster": "posters/contact-dribble-arriere.jpg",
+      "source": "https://www.facebook.com/share/v/19VbwH24Q4/"
+    },
+    {
+      "id": "dribble-tir-coupelles",
+      "name": "Dribble + tir : les coupelles",
+      "themes": [
+        "Dribble",
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Plots",
+        "Coupelles"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "6 plots de 3 couleurs (jaune, rouge, bleu), deux par couleur : un en haut et un en bas. Sur un des deux plots de chaque couleur, il y a une coupelle.\n\nEn dribblant, l'enfant va chercher la coupelle sur un plot et l'apporte sur le plot de la même couleur de l'autre côté, avant de passer au plot suivant (jaune, puis rouge, puis bleu). Il finit par un tir.\n\nVariantes :\n• imposer la main de dribble en fonction du côté ;\n• faire le parcours en course, sur 2 parcours ;\n• utiliser des coupelles de couleurs différentes à déplacer.\n\nMatériel : 6 plots (2 jaunes, 2 rouges, 2 bleus), 3 coupelles, 1 ballon, un panier.",
+      "video": "videos/dribble-tir-coupelles.mp4",
+      "poster": "posters/dribble-tir-coupelles.jpg",
+      "source": null
+    },
+    {
+      "id": "dribble-tir-pastilles",
+      "name": "Dribble + tir : les pastilles",
+      "themes": [
+        "Dribble",
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Tout le groupe",
+      "materiel": [
+        "Pastilles / disques",
+        "Plots"
+      ],
+      "variantes": false,
+      "rev": 1,
+      "description": "1 pastille par joueur, 1 ballon par joueur. Chaque enfant est sur sa pastille.\nAu signal : marquer le plus rapidement possible, puis retourner sur une pastille en dribblant.\nOn retire des pastilles au fur et à mesure : il y en a de moins en moins, donc il faut revenir vite.\n\nMatériel : 1 pastille et 1 ballon par enfant, 3 plots près du panier, un panier.",
+      "video": "videos/dribble-tir-pastilles.mp4",
+      "poster": "posters/dribble-tir-pastilles.jpg",
+      "source": null
+    },
+    {
+      "id": "dribble-stop-go-double-pas",
+      "name": "Dribble stop & go + reverse + double pas",
+      "themes": [
+        "Dribble",
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": false,
+      "rev": 1,
+      "description": "Départ ligne de fond côté droit, 3 plots en ligne le long du côté, 1 plot dans le rond central, 1 plot à gauche.\n• Dribble main droite vers chaque plot : arrêt, dribbles rapides gauche-droite, accélération (3 fois).\n• Rond central : reverse.\n• Retour vers le panier par le centre, direction le plot de gauche, puis double pas.\nLe suivant part quand le précédent passe le 2e plot.",
+      "video": "videos/dribble-stop-go-double-pas.mp4",
+      "poster": "posters/dribble-stop-go-double-pas.jpg",
+      "source": "https://www.facebook.com/share/r/151QDjkyhEs/"
+    },
+    {
+      "id": "dribble-passe-tir-banc",
+      "name": "Dribble, passe et tir (le banc)",
+      "themes": [
+        "Dribble",
+        "Passe",
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Bancs",
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Le 1er joueur part en dribble jusqu'au banc, puis fait la passe à son partenaire et prend sa place.\nCelui qui a récupéré le ballon va marquer et ramène le ballon au départ, avant de se mettre en dernier.\n\nVariantes : fixer un contrat individuel ou par équipe.\n\nMatériel : 1 banc, des plots, 1 ballon, un panier.",
+      "video": "videos/dribble-passe-tir-banc.mp4",
+      "poster": "posters/dribble-passe-tir-banc.jpg",
+      "source": null
+    },
+    {
+      "id": "dribble-feu-tricolore",
+      "name": "Feu tricolore (dribble sur place)",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 5,
+      "format": "Tout le groupe",
+      "materiel": [],
+      "variantes": true,
+      "rev": 1,
+      "description": "Chaque enfant a son ballon et reste dans sa zone. Le coach annonce la couleur :\n• VERT : dribble normal (la balle monte à la taille).\n• ORANGE : dribble bas et rapide (hauteur de genou).\n• ROUGE : arrêt, ballon tenu à deux mains contre la poitrine.\n\nNiveau 1 : seulement la main forte, avec le bout des doigts, en regardant le coach.\nNiveau 2 : alterner main forte et main faible, puis changement de main devant soi, en regardant devant.",
+      "video": "videos/dribble-feu-tricolore.mp4",
+      "poster": "posters/dribble-feu-tricolore.jpg",
+      "source": null
+    },
+    {
+      "id": "dribble-la-traversee",
+      "name": "La traversée (dribble en déplacement)",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 7,
+      "format": "Tout le groupe",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Aller d'une ligne à l'autre en dribblant, avec des plots espacés comme obstacles. Regard levé, ballon au bout des doigts, ballon loin des plots (du côté opposé).\n\nNiveau 1 : en marchant, un plot sur deux, main forte.\nNiveau 2 : en courant, slalom entre les plots, changement de main à chaque plot.\n\nMatériel : 5 plots par couloir, 1 ballon par enfant.",
+      "video": "videos/dribble-la-traversee.mp4",
+      "poster": "posters/dribble-la-traversee.jpg",
+      "source": null
+    },
+    {
+      "id": "traversee-magique",
+      "name": "La traversée magique",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Tout le groupe",
+      "materiel": [],
+      "variantes": true,
+      "rev": 1,
+      "description": "Les enfants réalisent la traversée du terrain en accomplissant les tours de magie demandés :\n1. en marchant, ballon sur la tête\n2. en marchant, ballon dans le dos\n3. à reculons, ballon sur la tête\n4. à reculons, ballon dans le dos\n5. en dribblant à 2 mains\n6. en dribblant main droite\n7. en dribblant main gauche\n8. en envoyant le ballon au-dessus de la tête et en le récupérant sans le faire tomber\n9. 2 dribbles et on s'arrête ballon à 2 mains, et ainsi de suite\n\nPossibilité de les envoyer de temps en temps marquer sur un panier.\n\nMatériel : 1 ballon par enfant, un terrain avec une zone de départ et une zone d'arrivée.",
+      "video": "videos/traversee-magique.mp4",
+      "poster": "posters/traversee-magique.jpg",
+      "source": null
+    },
+    {
+      "id": "voleurs-de-tresor",
+      "name": "Les voleurs de trésor",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Tout le groupe",
+      "materiel": [
+        "Cerceaux",
+        "Coupelles",
+        "Balles de tennis",
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Objectif : remplir son coffre au trésor.\nIndividuellement, chaque enfant remplit son trésor (cerceau) avec les objets précieux (diamant, coupelles, balle de tennis…) disposés au milieu. On récupère un objet à la fois.\n\n1 manche sans ballon, puis 1 manche en dribblant.\nTemps de la chasse au trésor à définir (1 min 30 ?).\n\nMatériel : 1 cerceau par enfant, des objets précieux (diamants, coupelles, balles de tennis…), 4 plots pour délimiter le terrain.",
+      "video": "videos/voleurs-de-tresor.mp4",
+      "poster": "posters/voleurs-de-tresor.jpg",
+      "source": null
+    },
+    {
+      "id": "maniement-balle-tennis",
+      "name": "Maniement avec balle de tennis",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Tout le groupe",
+      "materiel": [
+        "Balles de tennis"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "1 balle de tennis chacun. Exercices de maniement sur place :\n1. envoi en l'air et récupérer à 2 mains\n2. envoi en l'air, applaudir et récupérer à 2 mains\n3. envoi avec rebond et récupérer à 2 mains (+ applaudir)\n4. envoi à 1 main et récupérer avec la même main\n5. envoi à 1 main et récupérer avec l'autre main\n\nMatériel : 1 balle de tennis par enfant.",
+      "video": "videos/maniement-balle-tennis.mp4",
+      "poster": "posters/maniement-balle-tennis.jpg",
+      "source": null
+    },
+    {
+      "id": "maniement-ballon-miroir",
+      "name": "Maniement du ballon en miroir",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Tout le groupe",
+      "materiel": [],
+      "variantes": true,
+      "rev": 1,
+      "description": "1 ballon chacun. Exercice de maniement du ballon sur place, en miroir : chaque enfant reproduit ce que fait le coach :\n• 8 fois entre les jambes, au sol\n• 8 fois entre les jambes, au niveau du genou\n• tourné autour de la taille\n• dribble bas, dribble haut\n• dribble main droite, dribble main gauche\n• envoyer le ballon en l'air et le récupérer sans le faire tomber…\n\nPuis : dribbler en se déplaçant, et attraper son ballon à 2 mains, sans bouger, au coup de sifflet ou quand un adulte se rapproche pour prendre le ballon (protection).\n\nMatériel : 1 ballon par enfant.",
+      "video": "videos/maniement-ballon-miroir.mp4",
+      "poster": "posters/maniement-ballon-miroir.jpg",
+      "source": null
+    },
+    {
+      "id": "dribble-relais-aller-retour",
+      "name": "Relais en dribble",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 7,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Équipes de 4 à 5 par panier : aller-retour en dribble autour d'un plot, puis le suivant part. Un seul coureur à la fois, les autres attendent derrière la ligne, et le suivant part quand le coureur est revenu.\n\nNiveau 1 : parcours court, main forte.\nNiveau 2 : parcours long, main faible à l'aller, main forte au retour.\nPour finir, on peut ajouter un lay-up simple.\n\nMatériel : 1 plot par équipe, 1 ballon par équipe.",
+      "video": "videos/dribble-relais-aller-retour.mp4",
+      "poster": "posters/dribble-relais-aller-retour.jpg",
+      "source": null
+    },
+    {
+      "id": "dribble-retour-calme-stop",
+      "name": "Retour au calme : dribble et stop en deux temps",
+      "themes": [
+        "Dribble",
+        "Retour au calme"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 3,
+      "format": "Tout le groupe",
+      "materiel": [],
+      "variantes": true,
+      "rev": 1,
+      "description": "Tous les enfants dribblent dans la zone sans toucher personne. Au signal « stop », ils s'arrêtent en deux temps (1 … 2), genoux fléchis, ballon tenu à deux mains, regard levé.\n\nNiveau 1 : dribble lent, main forte.\nNiveau 2 : dribble plus vite, en alternant les mains.",
+      "video": "videos/dribble-retour-calme-stop.mp4",
+      "poster": "posters/dribble-retour-calme-stop.jpg",
+      "source": null
+    },
+    {
+      "id": "slalom-tir-changement-main",
+      "name": "Slalom + tir (changer de main)",
+      "themes": [
+        "Dribble",
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Slalom entre des plots rouges et bleus, puis tir. On change de main à chaque plot : après un plot bleu, dribble main droite ; après un plot rouge, dribble main gauche.\n\nExemples de consignes, en fonction du groupe :\n1. 1er passage sans dribble\n2. sans dribble, tenir le ballon à une main et changer de main à chaque plot\n3. en dribblant\n\nMatériel : 2 plots bleus, 2 plots rouges, 1 ballon par file, un panier.",
+      "video": "videos/slalom-tir-changement-main.mp4",
+      "poster": "posters/slalom-tir-changement-main.jpg",
+      "source": null
+    },
+    {
+      "id": "dribble-suis-le-chef",
+      "name": "Suis le chef (protection du ballon)",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 8,
+      "format": "Par 2",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Par deux : le chef dribble librement dans la zone, le suiveur l'imite en restant derrière. On change de rôle au signal.\n\nProtection du ballon : le chef garde son corps entre le ballon et le suiveur. Le suiveur ne fait que suivre et n'essaie jamais de voler le ballon.\n\nAstuce : associer un enfant à l'aise avec un moins à l'aise, qui progresse en copiant sans pression.\nNiveau 1 : chef qui va lentement, main forte.\nNiveau 2 : chef rapide, changements de direction et de main.\n\nMatériel : 4 plots pour délimiter chaque zone, 1 ballon par enfant.",
+      "video": "videos/dribble-suis-le-chef.mp4",
+      "poster": "posters/dribble-suis-le-chef.jpg",
+      "source": null
+    },
+    {
+      "id": "tour-de-plots-face-panier",
+      "name": "Tour de plots face au panier",
+      "themes": [
+        "Dribble"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": false,
+      "rev": 1,
+      "description": "3 colonnes sur la ligne de fond, 3 plots par colonne sur la longueur.\n• Départ en dribble vers le 1er plot.\n• Tour complet du plot en restant toujours face au panier adverse : la partie qui redescend se fait en marche arrière.\n• On repart vers le plot suivant, et ainsi de suite jusqu'à la ligne de fond.\nLa vague suivante part quand la précédente a passé le 1er plot.",
+      "video": "videos/tour-de-plots-face-panier.mp4",
+      "poster": "posters/tour-de-plots-face-panier.jpg",
+      "source": null
+    },
+    {
+      "id": "jeu-passe-swiss-ball",
+      "name": "Jeu de passe : le swiss ball",
+      "themes": [
+        "Passe"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Groupes de 3 à 4",
+      "materiel": [
+        "Swiss ball"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Jeu de passe en coopération. Objectif : ne jamais faire tomber le ballon. Les joueurs envoient un ballon en mousse sur le swiss ball (passe à 2 mains) ; les autres joueurs doivent le récupérer sans le faire tomber. Veillez à ce que le ballon passe dans toutes les mains.\n\nVariante : ajouter un défenseur dans le cercle. Objectif : se faire des passes en extérieur et réussir à toucher le swiss ball sans que le ballon ne tombe par terre ni que le défenseur l'intercepte.\n\nMatériel : 1 swiss ball (posé sur un support), 1 ballon en mousse.",
+      "video": "videos/jeu-passe-swiss-ball.mp4",
+      "poster": "posters/jeu-passe-swiss-ball.jpg",
+      "source": null
+    },
+    {
+      "id": "passe-triangle-a-4",
+      "name": "Le triangle à 4",
+      "themes": [
+        "Passe"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": "Groupes de 3 à 4",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Objectif : passer AVANT que le défenseur arrive, du côté libre.\n\nGroupes de 4 : 3 passeurs en triangle (4 à 5 m), 1 défenseur au centre sur un plot.\n\n1. Le défenseur part du plot vers le porteur, qui regarde où il arrive et passe du côté libre. Après chaque passe, le défenseur retouche le plot avant de repartir.\n2. Sans plot : le défenseur enchaîne directement, il faut décider plus vite.\n\nRègles : passes à 2 mains (poitrine ou à terre), jamais en cloche. Le défenseur gêne mais ne prend pas le ballon ; il marque 1 point s'il touche le porteur avant la passe.\nRotation : nouveau défenseur toutes les 30 s ou après 2 touches.\nRéglage : trop dur → agrandir le triangle ou garder le plot ; trop facile → enlever le plot.\nMatériel : 1 ballon, 1 plot par groupe.",
+      "video": "videos/passe-triangle-a-4.mp4",
+      "poster": "posters/passe-triangle-a-4.jpg",
+      "source": null
+    },
+    {
+      "id": "passe-pivot-evolutif",
+      "name": "Passe + pivot évolutif",
+      "themes": [
+        "Passe"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 15,
+      "format": "Par 2",
+      "materiel": [
+        "Cerceaux"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "1. Face à face à 3 m : passe à terre (rebond aux 2/3).\n2. Idem à 5 m.\n3. En file : 1 part en dribble, arrêt pieds joints dans les 2 cerceaux, pivot sur un pied, passe à terre à 2 qui fait le même parcours ; 1 revient en fin de file.\n4. Idem, 1 défend un peu sur 2 au départ du dribble.\n5. Idem avec un départ en dribble gauche-droite.\nMatériel : 2 cerceaux par atelier, 1 ballon pour 2.",
+      "video": "videos/passe-pivot-evolutif.mp4",
+      "poster": "posters/passe-pivot-evolutif.jpg",
+      "source": null
+    },
+    {
+      "id": "passe-et-suit-a-3",
+      "name": "Passe et suit à 3",
+      "themes": [
+        "Passe"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": "Groupes de 3 à 4",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Groupes de 3 sur une même ligne (gauche – milieu – droite), environ 3 à 4 m entre chaque enfant. Passes à deux mains poitrine.\n\nV1 : 1 ballon par groupe\n• Celui du milieu a le ballon : il fait une passe à celui de droite et prend sa place.\n• Celui de droite dribble vers celui de gauche, lui fait la passe et prend sa place.\n• Celui de gauche, avec le ballon, se place au milieu, et on recommence : passe à droite, on prend sa place, et ainsi de suite.\n\nV2 : 3 ballons par groupe (1 ballon chacun)\n• Seul celui du milieu se déplace. Il passe à celui de droite et récupère en même temps la passe que celui-ci lui fait.\n• Il dribble, fait le tour de celui de droite, puis va vers celui de gauche.\n• Avec celui de gauche, même enchaînement : passes croisées, dribble, tour, retour vers le milieu. Et ainsi de suite pendant 30 secondes.\n• Au bout de 30 secondes, on tourne : un autre enfant devient celui du milieu.\n\nConsignes : mains en cible, on regarde le receveur avant de passer, ballon protégé pendant le dribble.\n\nMatériel : 1 ballon (V1) ou 3 ballons (V2) et 3 plots par groupe de 3.",
+      "video": "videos/passe-et-suit-a-3.mp4",
+      "poster": "posters/passe-et-suit-a-3.jpg",
+      "source": null
+    },
+    {
+      "id": "pont-roulant-tir",
+      "name": "Pont roulant + tir",
+      "themes": [
+        "Passe",
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Groupes de 3 à 4",
+      "materiel": [
+        "Cerceaux"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Groupes de 4 joueurs : A, B, C et D. Le ballon part du cerceau (à côté de A) et doit y revenir le plus rapidement possible après être passé par tous les joueurs : A, B, C, puis D qui le ramène dans le cerceau.\n\nExemples de consignes, en fonction du groupe :\n1. emmener le ballon en courant, main à main\n2. emmener le ballon en dribblant, main à main\n3. passe avec rebond\n4. passe directe\n5. consignes 1 à 4, et D doit marquer avant de ramener le ballon dans le cerceau\n\nMatériel : 1 cerceau et 1 ballon par groupe, un panier pour la consigne 5.",
+      "video": "videos/pont-roulant-tir.mp4",
+      "poster": "posters/pont-roulant-tir.jpg",
+      "source": null
+    },
+    {
+      "id": "passe-evolution-defis",
+      "name": "Évolution de la passe",
+      "themes": [
+        "Passe"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Par 2",
+      "materiel": [
+        "Bancs",
+        "Cerceaux",
+        "Pastilles / disques"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Par 2, face à face. Les enfants réalisent des défis de passe, du plus facile au plus difficile. On réussit un défi avant de passer au suivant.\n\n1. Assis : faire rouler le ballon sur une ligne.\n2. Assis : faire rouler le ballon sur un banc.\n3. Passe avec 2 rebonds.\n4. Passe avec 1 rebond.\n5. Passe avec 1 rebond dans le grand cerceau.\n6. Passe avec 1 rebond sur une pastille.\n7. Passe sans rebond par-dessus un banc.\n8. Passe sans rebond.\n9. Passe sans rebond dans un cerceau en hauteur.\n\nMatériel : 1 ballon par binôme, une ligne au sol, des bancs, un grand cerceau, des pastilles et un cerceau en hauteur.",
+      "video": "videos/passe-evolution-defis.mp4",
+      "poster": "posters/passe-evolution-defis.jpg",
+      "source": null
+    },
+    {
+      "id": "double-pas-evolutif",
+      "name": "Double pas évolutif",
+      "themes": [
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 15,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Pastilles / disques"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Lay-up main droite, côté droit du panier. Un disque « 0 » au sol marque le dernier appui pied gauche (celui du dernier dribble).\n\n1. Double pas arrêté : pied gauche sur le 0, ballon en main, puis droite-gauche et lay-up.\n2. Idem avec un dribble sur place avant le droite-gauche.\n3. Départ à 3 pas : on part en dribble en marchant pour que le pied gauche tombe sur le 0, puis droite-gauche.\n4. Départ à 6 m en courant : idem.\n5. Sans disque.\n\nRythme à faire dire : « 0 - 1 - 2 - lay-up » (gauche - droite - gauche).\nOn ne passe à l'étape suivante que si le rythme est acquis.",
+      "video": "videos/double-pas-evolutif.mp4",
+      "poster": "posters/double-pas-evolutif.jpg",
+      "source": null
+    },
+    {
+      "id": "motricite-passe-cerceaux",
+      "name": "Motricité + passe (cerceaux et plot à faire tomber)",
+      "themes": [
+        "Appuis & tir",
+        "Passe"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Cerceaux",
+        "Bancs",
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Parcours en deux temps.\n1. Motricité : saut à pieds joints dans les cerceaux (2 passages), puis un pied dans chaque cerceau.\n2. Passe : à la fin du parcours, envoi du ballon à 2 mains, comme une passe, pour faire tomber un plot posé sur un banc.\n\nLes enfants passent les uns après les autres.\n\nMatériel : cerceaux (jaunes et bleus, en zigzag), 1 banc avec 3 plots (bleu, jaune, rouge), 1 ballon par enfant.",
+      "video": "videos/motricite-passe-cerceaux.mp4",
+      "poster": "posters/motricite-passe-cerceaux.jpg",
+      "source": null
+    },
+    {
+      "id": "motricite-dribble-couleurs",
+      "name": "Motricité et dribble : les couleurs",
+      "themes": [
+        "Appuis & tir",
+        "Dribble"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Groupes de 3 à 4",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Les plots (bleu, jaune, rouge) sont alignés. 1 joueur se place à 5-6 mètres des plots. Le coach annonce une couleur : l'enfant avance, touche le plot de cette couleur et se replace en marche arrière.\n\nPassages : sans ballon, avec le ballon tenu à 2 mains, en dribblant.\n\nVariantes : toucher 2 fois un plot, annoncer 2 couleurs, faire le tour du plot.\n\nMatériel : 3 plots (bleu, jaune, rouge) par groupe, 1 ballon par enfant.",
+      "video": "videos/motricite-dribble-couleurs.mp4",
+      "poster": "posters/motricite-dribble-couleurs.jpg",
+      "source": null
+    },
+    {
+      "id": "motricite-vers-double-pas",
+      "name": "Motricité vers le double pas (cerceaux)",
+      "themes": [
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Pastilles / disques",
+        "Cerceaux"
+      ],
+      "variantes": true,
+      "rev": 2,
+      "description": "Un parcours au sol : une pastille bleue, une pastille rouge, un cerceau, et on recommence 3 fois, avec un panier à la fin.\n• Pastille bleue : pied droit.\n• Pastille rouge : pied gauche.\n• Cerceau : saut à pieds joints en écrasant le sol.\n\nPassage 1, sans ballon : l'enfant fait le parcours.\nPassage 2, avec ballon : le ballon est tenu au-dessus de la tête et on finit par un shoot.\nPassage 3, avec ballon : dribble avant la pastille bleue, puis on enchaîne le parcours.\n\nLes enfants passent les uns après les autres.\n\nMatériel : pastilles bleues et rouges, 3 cerceaux, 1 ballon par enfant, un panier.",
+      "video": "videos/motricite-vers-double-pas.mp4",
+      "poster": "posters/motricite-vers-double-pas.jpg",
+      "source": null
+    },
+    {
+      "id": "motricite-sprint-pastilles",
+      "name": "Motricité vers le double pas (sprint et pastilles)",
+      "themes": [
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U7"
+      ],
+      "duration": 8,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Plots",
+        "Pastilles / disques"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Départ en sprint depuis la porte (2 plots). Sur le parcours : pastille bleue = pied droit, pastille rouge = pied gauche, puis on va vers le panier.\n\n1. Sans ballon : taper dans la main du coach après la deuxième pastille.\n2. Avec ballon, sans dribble : finir par un double pas.\n3. Avec dribble.\n\nLes enfants partent les uns après les autres, depuis chaque porte.\n\nMatériel : 4 plots (2 portes), 2 pastilles bleues, 2 pastilles rouges, 1 ballon par enfant, un panier.",
+      "video": "videos/motricite-sprint-pastilles.mp4",
+      "poster": "posters/motricite-sprint-pastilles.jpg",
+      "source": null
+    },
+    {
+      "id": "passe-coupe-inverse-g3mjtxp",
+      "name": "PASSE + COUPE INVERSE",
+      "themes": [
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": null,
+      "materiel": null,
+      "variantes": false,
+      "rev": 1,
+      "description": "",
+      "video": null,
+      "poster": null,
+      "source": null
+    },
+    {
+      "id": "relais-slalom-tir-double-pas",
+      "name": "Relais slalom : tir / double pas",
+      "themes": [
+        "Appuis & tir"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": "Colonnes / relais",
+      "materiel": [
+        "Plots"
+      ],
+      "variantes": false,
+      "rev": 1,
+      "description": "Mise en place : 2 colonnes derrière la ligne de départ, 4 plots en slalom devant chaque colonne, 1 ballon par colonne.\n\n• Colonne de gauche : slalom en dribble, arrêt sur la zone de tir, tir.\n• Colonne de droite : slalom en dribble, puis double pas (appuis 1-2, on lâche le ballon en haut).\n• Chacun récupère son rebond, revient en dribble par l'extérieur et donne le ballon au suivant, puis va en fin de colonne.\n\nAu bout de 5 min : les colonnes changent de côté, chacun fait les deux.\n\nMatériel : 8 plots, 2 ballons (+1 de réserve).\nSi le double pas coince : tir en course près du panier sans exiger les 2 appuis, ou enlever les 2 derniers plots pour plus d'élan.",
+      "video": "videos/relais-slalom-tir-double-pas.mp4",
+      "poster": "posters/relais-slalom-tir-double-pas.jpg",
+      "source": null
+    },
+    {
+      "id": "espaces-horloge-demarquage",
+      "name": "L'horloge (se démarquer)",
+      "themes": [
+        "Espaces"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": "Groupes de 3 à 4",
+      "materiel": [
+        "Pastilles / disques"
+      ],
+      "variantes": true,
+      "rev": 1,
+      "description": "Objectif : se placer là où le porteur peut passer (jamais caché derrière le défenseur).\n\nGroupes de 3 : 1 passeur au centre, 1 réceptionneur, 1 défenseur. 8 pastilles en cercle à 3-4 m autour du passeur.\n\n1. Le coach donne le ballon au passeur, le défenseur vient vite sur lui, bras tendus sans contact. Le réceptionneur file sur une pastille du côté libre, mains en avant + « Oui ! ». Il reçoit, rend tout de suite et change de pastille (« je rends et je bouge »).\n2. Évolution : le défenseur se place sur la ligne de passe (entre passeur et réceptionneur) ; le réceptionneur doit changer de côté vite.\n\nLe passeur a le droit de pivoter.\nRotation des 3 rôles toutes les 30 s.\nMatériel : 8 pastilles et 1 ballon par groupe.",
+      "video": "videos/espaces-horloge-demarquage.mp4",
+      "poster": "posters/espaces-horloge-demarquage.jpg",
+      "source": null
+    },
+    {
+      "id": "remise-en-jeux-digqg23",
+      "name": "REMISE EN JEUX",
+      "themes": [
+        "Espaces"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 10,
+      "format": null,
+      "materiel": null,
+      "variantes": false,
+      "rev": 1,
+      "description": "",
+      "video": null,
+      "poster": null,
+      "source": null
+    },
+    {
+      "id": "match-4v4-jnvcspk",
+      "name": "MATCH 4V4",
+      "themes": [
+        "Opposition / match"
+      ],
+      "categories": [
+        "U9"
+      ],
+      "duration": 20,
+      "format": null,
+      "materiel": null,
+      "variantes": false,
+      "rev": 1,
+      "description": "",
+      "video": null,
+      "poster": null,
+      "source": null
+    }
+  ]
+}
